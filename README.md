@@ -1,4 +1,3 @@
-```markdown
 # 🎮 GameHub
 
 **GameHub** is a web-based gaming platform built with **React** and **JavaScript**, offering users a collection of classic mini-games with an intuitive interface, smooth performance, and responsive design. It’s ideal for casual play, learning, or just killing time.
